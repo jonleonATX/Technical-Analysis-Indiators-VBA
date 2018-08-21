@@ -3,6 +3,7 @@
 MS Access project with several technical indicators. Written several years ago to read Yahoo EOD data. Haven't tested the import recently but the code for each indicator is available to use or modify for your own projects.
 
 Indicators included:
+
     Accumulation Distribution Line
     Aroon Oscillator
     Average Directional Index
